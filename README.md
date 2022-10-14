@@ -1,6 +1,6 @@
 # Credit_Risk_Analysis
 
-# Overview of Project
+## Overview of Project
 
 In 2019, more than 19 million Americans had at least one unsecured personal loan. That's a record-breaking number! Personal lending is growing faster than credit card, auto, mortgage, and even student debt. With such incredible growth, FinTech firms are storming ahead of traditional loan processes. By using the latest machine learning techniques, these FinTech firms can continuously analyze large amounts of data and predict trends to optimize lending. 
 
@@ -17,7 +17,7 @@ In this project, we use python to build and evaluate several machine learning  m
 4. Undersample Model: Cluster Centroids algorithm
 
 
-# Resources
+## Resources
 
 - Data Source: Module-17-Challenge-Resources.zip and LoanStats_2019Q1.csv
 
@@ -62,7 +62,7 @@ Used the undersampling algorithm to verify which algorithm has the best perfoman
 
 ## Over/Under Sampling: SMOTEENN
 
-![Over/Under Sampling: SMOTEENN](over_Under_Sampling.png)
+![Over or Under Sampling - SMOTEENN](over_Under_Sampling.png)
 
 ## Ensemble Classifiers
 
